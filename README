@@ -1,0 +1,1 @@
+I worked with James Evans, We both worked together printString and readString. I also did readSector. The only problem we had is that there was an indentation on the new line after the user pressed enter that would start the line where the previous one ended.
